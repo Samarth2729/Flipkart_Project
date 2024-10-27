@@ -19,7 +19,7 @@ This project is a Selenium-based automation script designed to test the "Add to 
 
 Before running the script, ensure you have the following installed:
 
-- Python 3.x
+- Python Latest version
 - Chrome WebDriver
 - Selenium package
 
